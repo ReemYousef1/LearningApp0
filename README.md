@@ -17,5 +17,5 @@ It is designed to help users define personal goals, monitor their progress, and 
 - Goal Updates: Update and modify your goals over time as you progress.
   
 Explore the app through the screenshots above, and start building the habits that lead to lasting success. Happy goal-setting!
-<img src="<img width="312" alt="Screenshot 1446-05-02 at 11 01 02 AM" src="https://github.com/user-attachments/assets/2a6931d7-1044-4052-8515-1e488f0c8cdf">
-" alt="Screenshot" width="500" height="auto">
+![image](https://github.com/user-attachments/assets/9f0afec8-2832-4470-8a7a-e11c0dab5526)
+
